@@ -18,4 +18,3 @@ else{
 
     return numbers;
 };
-console.log(onput);
