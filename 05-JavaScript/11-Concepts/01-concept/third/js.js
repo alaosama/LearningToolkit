@@ -18,3 +18,15 @@ else{
 
     return numbers;
 };
+
+// Second solution
+
+function nombre_paire(n) {
+    let somme = 0;
+    for (let i = 1; i <= n; i++){
+        if (i % 2 === 0) {
+            somme += i;
+        }
+    }
+    return somme
+}
