@@ -16,7 +16,6 @@ This repository is organized into several folders, each containing resources and
 - **Data_Structures**: Information and resources on different data structures, crucial for efficient data manipulation and storage.
 - **Database/01-Introduction**: An introduction to databases, essential for managing and organizing data.
 - **Frameworks**: Information on various frameworks used in software development.
-- **MEAN Stack**: Resources for the MEAN stack (MongoDB, Express.js, Angular, and Node.js), a popular stack for building web applications.
 
 ## Contributing
 
